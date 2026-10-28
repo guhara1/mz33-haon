@@ -19,8 +19,8 @@ Allow: /
 User-agent: *
 Disallow: /
 
-Sitemap: https://haontherapy.netlify.app/sitemap.xml
-Sitemap: https://haontherapy.netlify.app/sitemap-hub.xml
-Sitemap: https://haontherapy.netlify.app/sitemap-area.xml
-Sitemap: https://haontherapy.netlify.app/sitemap-topic.xml
-Sitemap: https://haontherapy.netlify.app/rss.xml
+Sitemap: https://haontherapy.pages.dev/sitemap.xml
+Sitemap: https://haontherapy.pages.dev/sitemap-hub.xml
+Sitemap: https://haontherapy.pages.dev/sitemap-area.xml
+Sitemap: https://haontherapy.pages.dev/sitemap-topic.xml
+Sitemap: https://haontherapy.pages.dev/rss.xml
